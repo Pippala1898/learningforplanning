@@ -1,7 +1,8 @@
 # learningforplanning
-                                         Folders and Files
+                      Folders and Files
+                      
 
-       For Data Genration:
+     For Data Genration:
 Script in photorealistic-blockworld-master folder are used for generate photorealistic data, but you have to install blender before run it.
 The link below introduces how to generate photorealistic data in detail.
        https://github.com/sontung/photorealistic-blocksworld
@@ -51,6 +52,6 @@ The ‘demo’ folder contains some demonstrations of our algorithm.
 
 
           
-                                           How to Run
+                       How to Run
 
 If you want to check all codes from scratch, you can run them one by one in the order described above. If you just want to test a random scenario, just run the current_plan_with_heuristics.py  directly. But you need to download all the relevant data (data links have been given) first in advance.

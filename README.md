@@ -11,7 +11,7 @@ you can find our data here:    https://drive.google.com/drive/folders/1szDToDPCO
 
       For DataLoading
 We use the data_loader.py script to load our image data.
-The data folder (link below) contains the loaded data we used to train the autoencoder and do other tasks. These data are extracted from the visual data
+The data folder (link below) contains the loaded data we used to train the autoencoder and do other tasks. These data are extracted from the visual data.
 https://drive.google.com/drive/folders/1yOeUfWFkWcxhbg2iXEQBigcaInrypcbn?usp=sharing
 
       For model train:
